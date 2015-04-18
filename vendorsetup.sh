@@ -1,1 +1,1 @@
-add_lunch_combo cm_d802-userdebug
+add_lunch_combo eos_d802-userdebug
